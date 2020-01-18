@@ -1,0 +1,30 @@
+\documentclass[10pt,a4 paper]{article}
+\title{Technical Writing \& Presentation }
+\date{January 10,2020}
+\begin{document}
+	\maketitle
+	\begin{center}
+		\title{Course code : GED 272}
+	\end{center}
+	\begin{center}
+		\title{Practice work list}
+    \end{center}
+		\title{ Supervised by : Dr. Jannatul Ferdous}\\
+		\title{ Professor}\\
+		\title{ Department of Computer science \& Engineering}\\
+		\title{Jatiya Kabi Kazi Nazrul Islam University}\\
+		\title{Trishal, Mymensingh,Bangladesh 2220}\\
+	\section{ Cover page}
+	Assignment format.scholarship Application.CV writing. bio data.
+	\section{Adding Pictures}
+	Add a picture or two to many.Leveling the pictures.
+	\section{Mathematics}
+	Making equation with numbering and without numbering.Equation leveling.
+	\section{Table Making}
+	Making simple table.It may have two or more column.\\\\\\
+		\title{Submitted by :}
+		\title{Md. Zawharul Islam}\\
+		\title{B.Sc.(Eng.)  in CSE}\\
+		\title{ID: 17102014 }\\
+		\title{Session: 2016-17}\\
+\end{document}
