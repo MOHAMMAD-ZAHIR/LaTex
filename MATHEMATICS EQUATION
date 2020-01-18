@@ -1,0 +1,40 @@
+\documentclass[12pt,a4 paper]{article}
+\usepackage{amsmath}
+\title{MATHEMATICS EQUATION MAKING}
+\author{MD. ZAWHARUL ISLAM}
+\date{January 18,2020}
+\begin{document}
+	\maketitle
+	\begin{enumerate}
+		\item Equation :
+		\begin{enumerate}
+			\item $x^2$ \\
+			\item $x^n$ + $y^n$ = $z^n$\\
+			\begin{enumerate}
+				\item $a_1^2$ + $a_2^2$ = $a_3^2$\\
+			\end{enumerate}
+		\item $\int\limits_0^1$ $x^2$ + $y^2$\\
+		\begin{enumerate}
+			\item $\int\limits_0^1$ $x^n$\\
+		\end{enumerate}
+	\item $lim{h\rightarrow0}\frac{f(x+a)-f(a)}{h}$\\
+	\begin{enumerate}
+		\item $\frac{x}{y}$\\
+		\item $x$ = $\frac{2}{3}$\\
+	\end{enumerate}
+\item $\sum_{i=1}^{n} i^2$ = $\frac{n(n+1)(2n+1)}{6}$\\
+\item $\sum_{i = 1}^{n} 1 = n$\\
+		\end{enumerate}
+\item	$
+\begin{pmatrix}
+	a&b\\
+	c&d\\
+	e&f\\
+\end{pmatrix}
+	$		 
+	\item $\alpha$
+	\item $\beta$
+	\item $\pi$
+	\item The area of circle is : 2$\pi$r\\
+	\end{enumerate}	
+\end{document}
