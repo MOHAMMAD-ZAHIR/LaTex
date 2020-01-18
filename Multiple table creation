@@ -1,0 +1,31 @@
+\documentclass[12pt,a4 paper]{article}
+\title{TABLE CREATION }
+\author{MD. ZAWHARUL ISLAM}
+\date{January 17,2020}
+\begin{document}
+\maketitle
+\centering
+ID : 17102014\\
+REG : 5691\\
+SESSION : 2016-17 \\[2ex] 
+\begin{table}[h!]  
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Name & Department & Date\\
+\hline
+Zahir & CSE & 17.01.2020\\
+\hline
+\end{tabular}
+\caption{Table creator.}
+\vspace{2ex}
+\begin{tabular}{|c|c|c|}
+	\hline 
+	Effort & Mistake & Try again\\
+	\hline
+	Focused & Recharged & Try again\\
+	\hline
+\end{tabular}
+\caption{What the author face during the approach.}
+\end{table}                                   
+\end{document}
